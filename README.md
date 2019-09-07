@@ -42,7 +42,7 @@ This is a modified copy of the actual hackthenorth.com repo and is not actively 
 
 ### Special Thanks
 
-[<img src="./docs/bugsnag.svg" />](https://www.bugsnag.com)
+[<img src="./docs/bugsnag.svg" width="200px" />](https://www.bugsnag.com)
 
 ### License
 
