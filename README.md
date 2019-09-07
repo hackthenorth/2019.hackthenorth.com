@@ -5,7 +5,7 @@
 
 ### Check it out
 
-👉👉👉 [https://hackthenorth.com](hackthenorth.com) 👈👈👈
+👉👉👉 [hackthenorth.com](https://hackthenorth.com) 👈👈👈
 
 ### Running locally
 
