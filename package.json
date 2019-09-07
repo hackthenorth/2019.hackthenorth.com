@@ -1,0 +1,68 @@
+{
+  "name": "hackthenorth.com",
+  "version": "6.0.0",
+  "private": true,
+  "dependencies": {
+    "@hackthenorth/north": "^0.6.4",
+    "@types/lodash.throttle": "^4.1.6",
+    "@types/node": "^11.13.9",
+    "@types/react": "^16.8.15",
+    "@types/react-dom": "^16.8.4",
+    "@types/react-lottie": "^1.2.2",
+    "@types/smoothscroll-polyfill": "^0.3.1",
+    "@types/styled-components": "^4.1.14",
+    "lodash.throttle": "^4.1.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-lottie": "^1.2.3",
+    "react-pose": "^4.0.8",
+    "react-rellax": "^1.0.3",
+    "react-scripts": "3.0.0",
+    "react-spring": "^8.0.20",
+    "react-text-loop": "^2.0.2",
+    "smoothscroll-polyfill": "^0.4.4",
+    "styled-components": "^4.2.0",
+    "typescript": "^3.4.5",
+    "ua-parser-js": "^0.7.19"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "lint": "npm run lint:ts && npm run lint:css",
+    "lint:ts": "eslint --ext .jsx,.js,.tsx,.ts src/ --fix",
+    "lint:css": "stylelint src",
+    "minimize-images": "node ./scripts/image-minimizer.js",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/ua-parser-js": "^0.7.33",
+    "@typescript-eslint/eslint-plugin": "^1.7.0",
+    "@typescript-eslint/parser": "^1.7.0",
+    "eslint-config-prettier": "^4.2.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.13.0",
+    "eslint-plugin-react-hooks": "^1.6.0",
+    "glob": "^7.1.4",
+    "imagemin": "^6.1.0",
+    "imagemin-jpegtran": "^6.0.0",
+    "imagemin-pngquant": "^7.0.0",
+    "prettier": "^1.17.0",
+    "react-crossfade-image": "^1.1.1",
+    "stylelint": "^10.0.1",
+    "stylelint-config-recommended": "^2.2.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.6.0"
+  }
+}
