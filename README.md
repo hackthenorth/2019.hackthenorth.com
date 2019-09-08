@@ -20,16 +20,16 @@ Then install dependencies and get it running
 
 ```
 $ npm install
-$ npm run start
+$ npm start
 ```
 
 Navigate to `localhost:3000` in your browser and give it a look 👀
 
 ### Contributing
 
-This is a modified copy of the actual hackthenorth.com repo and is not actively maintained. For that reason contributions are not welcome at this time.
+This is a modified copy of the actual hackthenorth.com repo and is not actively maintained. For that reason, contributions are not welcome at this time.
 
-### Tech Stack
+### Tech stack
 
 - [React](https://reactjs.org/)
 - [Create React App](https://github.com/facebook/create-react-app)
@@ -40,7 +40,7 @@ This is a modified copy of the actual hackthenorth.com repo and is not actively 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Bugsnag](https://www.bugsnag.com)
 
-### Special Thanks
+### Special thanks
 
 [<img src="./docs/bugsnag.svg" width="200px" />](https://www.bugsnag.com)
 
