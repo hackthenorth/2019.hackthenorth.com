@@ -5,14 +5,14 @@
 
 ### Check it out
 
-👉👉👉 [hackthenorth.com](https://hackthenorth.com) 👈👈👈
+👉👉👉 [2019.hackthenorth.com](https://2019.hackthenorth.com) 👈👈👈
 
 ### Running locally
 
 First, clone the repo
 
 ```
-$ git clone https://github.com/hackthenorth/hackthenorth.com.git
+$ git clone https://github.com/hackthenorth/2019.hackthenorth.com.git
 $ cd hackthenorth.com
 ```
 
