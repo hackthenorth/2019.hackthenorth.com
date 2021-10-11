@@ -23,7 +23,7 @@
     "smoothscroll-polyfill": "^0.4.4",
     "styled-components": "^4.2.0",
     "typescript": "^3.4.5",
-    "ua-parser-js": "^0.7.19"
+    "ua-parser-js": "^0.7.24"
   },
   "scripts": {
     "start": "react-scripts start",
