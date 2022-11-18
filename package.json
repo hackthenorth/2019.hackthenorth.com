@@ -17,7 +17,7 @@
     "react-lottie": "^1.2.3",
     "react-pose": "^4.0.8",
     "react-rellax": "^1.0.3",
-    "react-scripts": "3.0.0",
+    "react-scripts": "5.0.1",
     "react-spring": "^8.0.20",
     "react-text-loop": "^2.0.2",
     "smoothscroll-polyfill": "^0.4.4",
